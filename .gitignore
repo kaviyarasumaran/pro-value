@@ -1,0 +1,12 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.db
+backend/uploads/*.pdf
+.pytest_cache/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+.DS_Store
